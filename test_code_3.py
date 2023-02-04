@@ -1,6 +1,6 @@
 import os,sys
-from code_4 import encrypt_message
-from code_4 import decrypt_message
+from code_3 import encrypt_message
+from code_3 import decrypt_message
 import random
 
 def check_if_file_exists():
