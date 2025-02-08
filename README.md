@@ -2,7 +2,7 @@
 
 ## Instructions
 
-In this CODE assignment, you will program a Caesar Cipher. The Caesar Cipher is one of the oldest mechanisms to hide secrets. The cipher relies on substitution to encrypt and decrypt information. In this assignment, we are asked to encrypt and encrypt information using the underlying logic of the Caesar Cipher.
+In this CODE assignment, you will program a Caesar Cipher. The Caesar Cipher is one of the oldest mechanisms to hide secrets. The cipher relies on substitution to encrypt and decrypt information. In this assignment, you are asked to encrypt and encrypt information using the logic of the Caesar Cipher.
 
 There are three elements in a Caesar Cipher:
 
